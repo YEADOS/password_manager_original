@@ -2,6 +2,12 @@
 
 Welcome to the **Password Manager** project! This project is a simple and secure password management tool designed to help users store and manage their passwords efficiently. The goal of this project was to implement encryption and hashing functions without external libraries.
 
+These were the only libraries allowed: 
+
+- **#include <stdio.h>**
+- **#include <stdlib.h>**
+- **#include <string.h>**
+
 ## Features
 
 - **Secure Storage:** Uses XOR encryption and Huffman Coding to store and retrieve passwords securely.
