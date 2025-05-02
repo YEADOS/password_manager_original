@@ -4,9 +4,8 @@ Welcome to the **Password Manager for UNI** project! This project is a simple an
 
 ## Features
 
-- **Secure Storage:** Uses encryption to store passwords securely.
-- **User-Friendly Interface:** Easy to use for students and professionals alike.
-- **Cross-Platform Compatibility:** Compatible with various operating systems.
+- **Secure Storage:** Uses XOR encryption and Huffman Coding to store and retrieve passwords securely.
+- **Command-Line Interface:** Easily manage passwords via simple terminal commands.
 - **Lightweight and Efficient:** Written in C for optimal performance.
 
 ## Getting Started
