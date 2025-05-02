@@ -1,6 +1,6 @@
 # Password Manager for UNI
 
-Welcome to the **Password Manager for UNI** project! This project is a simple and secure password management tool designed to help users store and manage their passwords efficiently.
+Welcome to the **Password Manager** project! This project is a simple and secure password management tool designed to help users store and manage their passwords efficiently. The goal of this project was to implement encryption and hashing functions without external libraries.
 
 ## Features
 
