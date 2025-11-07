@@ -4,7 +4,7 @@
 #define MAX_LENGTH 256
 #define MAX_STRING_LENGTH 31
 #define MAX_TABLE_LENGTH 100
-#define DEAULT_TABLE_LENGTH 15
+#define DEFAULT_TABLE_LENGTH 15
 /* #define DEBUG */
 
 extern char* cryptkey;

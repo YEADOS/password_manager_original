@@ -16,9 +16,9 @@ void viewPasswords(password_t* list)
     password_t *temp = list;
     password_t *max = list; 
 
-    int maxWebName = DEAULT_TABLE_LENGTH;
-    int maxUserName = DEAULT_TABLE_LENGTH;
-    int maxPassName = DEAULT_TABLE_LENGTH;
+    int maxWebName = DEFAULT_TABLE_LENGTH;
+    int maxUserName = DEFAULT_TABLE_LENGTH;
+    int maxPassName = DEFAULT_TABLE_LENGTH;
     
     while(max != NULL)
     {
